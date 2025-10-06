@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Daily ToDo:**
+**About**
 - "I'm a machine that turns coffee into code"
 - All my homies hate the Java Garbage Collector
 - Commit war crimes with reflection
